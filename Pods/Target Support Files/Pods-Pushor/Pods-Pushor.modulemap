@@ -1,0 +1,6 @@
+framework module Pods_Pushor {
+  umbrella header "Pods-Pushor-umbrella.h"
+
+  export *
+  module * { export * }
+}
